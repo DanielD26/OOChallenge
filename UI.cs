@@ -79,7 +79,7 @@ namespace CivSem1Challenge2_RegistrationSystem
                     // Create and call a method/function named GetNumStudents() to do this
                     int GetNumStudents = Students.Count();
                     System.Console.WriteLine(GetNumStudents);
-                    break;
+                    break; 
 
                 case "5":
                     //TODO: Print the number of students enrolled in valid courses
