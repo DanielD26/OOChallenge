@@ -102,7 +102,7 @@ namespace CivSem1Challenge2_RegistrationSystem
                     System.Console.WriteLine("Please enter a year");
                     while(!int.TryParse(Console.ReadLine(), out num)) {
                         System.Console.WriteLine("Invalid, enter again");
-                    }
+                    } 
 
                     int courseNum;
                     System.Console.WriteLine("Please enter the course number");
