@@ -94,7 +94,7 @@ namespace CivSem1Challenge2_RegistrationSystem
 
                 case "6":
                    //TODO: Add a student to the student List. Then add that student to a valid course
-                   this.AddStudent(); 
+                   this.AddStudent = new Student();
                    break;
 
                 case "7":
